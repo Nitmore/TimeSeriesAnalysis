@@ -1,1 +1,1 @@
-# TimeSeriesAnalysis
+Preprocessed and normalized data, using PyTrend for historical search data. Conducted EDA, identified trends and outliers. Applied Spearman correlation and PCA for feature selection. Developed predictive models (Linear Regression, XGBoost, ARIMA, SARIMAX), with SARIMAX achieving highest accuracy by incorporating seasonality and exogenous factors.
